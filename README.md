@@ -15,3 +15,9 @@ Sistem ini dirancang untuk membantu proses **pengajuan surat administrasi mahasi
 - Arsip surat otomatis  
 - Notifikasi status surat  
 - Riwayat pengajuan surat mahasiswa
+## Daftar Desain
+- Landing page
+- login
+- register
+- crud
+- laporan
